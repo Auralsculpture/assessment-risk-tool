@@ -1,6 +1,7 @@
 # Integrated Assessment Risk Framework
 
 A web-based tool for analysing the security risks of online assessments in the age of AI agents. This framework helps educators and institutions make informed decisions about assessment design by combining vulnerability analysis with contextual risk factors.
+email Colin.webber@navitas.com
 
 **Live Tool:** https://auralsculpture.github.io/assessment-risk-tool/
 
