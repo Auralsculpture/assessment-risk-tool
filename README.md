@@ -177,7 +177,7 @@ The final risk level combines base risk with contextual risk, with CRITICAL base
 ## Important Limitations
 
 ### This is an Interim Framework
-This tool is designed for a **2-3 year transition period** while comprehensive assessment redesign occurs. It distinguishes between:
+This tool is designed for a **1-2 year transition period** while comprehensive assessment redesign occurs. It distinguishes between:
 - **Opportunistic AI use** (88-92% in unsecured contexts) - documented
 - **Deliberate security circumvention** (unknown prevalence) - requires empirical research
 
